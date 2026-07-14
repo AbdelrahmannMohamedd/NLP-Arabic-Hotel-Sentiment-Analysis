@@ -42,7 +42,7 @@ Neutral was the most challenging class (fewest samples, ambiguous mixed-sentimen
 └── README.md
 ```
 
-> **Note:** Trained model weights (`best_model.pt`, `best_model_aug.pt`) and the AraBERT tokenizer cache are not included in this repository due to file size (the full checkpoint includes the frozen 136M-parameter backbone, ~540MB). Re-run the notebook to reproduce them, or see [Reproducing](#reproducing) below.
+> **Note:** Trained model weights (`best_model.pt`, `best_model_aug.pt`) and the AraBERT tokenizer cache are not included in this repository due to file size (the full checkpoint includes the frozen 136M-parameter backbone, ~540MB). Re-run the notebook to reproduce them.
 
 ## Setup
 
