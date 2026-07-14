@@ -1,6 +1,6 @@
 # Arabic Hotel Review Sentiment Analysis (NLP)
 
-A three-class sentiment classifier (Negative / Neutral / Positive) for Arabic hotel reviews, built on a frozen AraBERT backbone with a custom Bahdanau-style additive attention layer and a lightweight classifier head. Developed as an NLP coursework project.
+A three-class sentiment classifier (Negative / Neutral / Positive) for Arabic hotel reviews, built on a frozen AraBERT backbone with a custom Bahdanau-style additive attention layer and a lightweight classifier head. Developed as an NLP coursework project. Contributed as a team member of 5.
 
 
 
