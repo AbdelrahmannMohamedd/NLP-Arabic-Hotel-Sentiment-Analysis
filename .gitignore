@@ -1,0 +1,31 @@
+# --- Python ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- Large model checkpoints (exceed GitHub's 100MB limit) ---
+best_model.pt
+best_model_aug.pt
+*.pt
+*.pth
+*.bin
+
+# --- Tokenizer cache (regenerable from AraBERT, not needed in repo) ---
+arabert_tokenizer/
+
+# --- Raw / synthetic data ---
+synthetic_data.json
+*.csv
+
+# --- HuggingFace / transformers cache ---
+.cache/
+~/.cache/huggingface/
+
+# --- OS / editor junk ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Colab / Jupyter junk ---
+.ipynb_checkpoints/
